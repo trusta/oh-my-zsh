@@ -105,3 +105,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export PATH=~/.npm-global/bin:$PATH
+export PATH=/Applications/IntelliJ\ IDEA.app/Contents/plugins/maven/lib/maven3/bin:$PATH
