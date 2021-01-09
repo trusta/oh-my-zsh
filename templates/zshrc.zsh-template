@@ -106,8 +106,7 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH=~/.npm-global/bin:$PATH
 export PATH=~/IdeaProjects/apache-maven-3.6.3/bin:$PATH
-export PATH=/Library/Java/JavaVirtualMachines/graalvm-ce-java11-20.0.0/Contents/Home/bin:$PATH
-
+export PATH=/snap/bin:$PATH
 
 eval $(thefuck --alias)
 
